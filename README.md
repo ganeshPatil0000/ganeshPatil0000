@@ -2,8 +2,12 @@
 <h1 align="center">Hi ??, I'm Ganesh Devidas Patil</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hi 👋, I'm Ganesh Devidas Patil</h1>
+<h3 align="center">A passionate Java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshpatil0000&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshpatil0000" /> </p>
+
+- 📫 How to reach me **ganeshpatil182002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
