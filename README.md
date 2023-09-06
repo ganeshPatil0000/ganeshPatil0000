@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGZAqpTQpo__Q/profile-displaybackgroundimage-shrink_350_1400/0/1684766638923?e=1699488000&v=beta&t=eRr1Ceqgt8Szpwt-ZuxHppV9tUfm0-zSeQCdfRTjzAo)](https://rishavchanda.io)
 <h1 align="center">Hi ??, I'm Ganesh Devidas Patil</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
