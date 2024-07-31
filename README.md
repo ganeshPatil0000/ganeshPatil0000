@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ganeshPatil0000/ganeshPatil0000](https://github.com/ganeshPatil0000/ganeshPatil0000)
+- 👨‍💻 All of my projects are available at [https://github.com/ganeshPatil0000/ganeshPatil0000](https://github.com/ganeshPatil0000)
 
 - 📫 How to reach me **ganeshpatil182002@gmail.com**
 
